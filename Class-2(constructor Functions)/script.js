@@ -24,6 +24,11 @@ function Pizaa(size, toppings, preference, crust) {
   this.preference = preference;
   this.crust = crust;
 
+
+  this.serve  = function(){
+    
+  }
+
 }
 
 Pizaa.prototype.serve = function(){

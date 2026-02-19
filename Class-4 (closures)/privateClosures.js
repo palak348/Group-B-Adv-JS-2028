@@ -29,4 +29,4 @@ class BankAccount {
 
 let acc = new BankAccount(10000);
 
-console.log(acc.calculateData());
+console.log(acc._balance);
